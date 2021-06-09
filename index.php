@@ -81,7 +81,7 @@ if (isset($_POST['no'])) {
 
         </div>
         <div class="footer">
-            <h2 style="color:#20c20e">Created by: Gray Hat Syndicate</h2>
+            <h2 style="color:#20c20e">Created by: LOL I will not tell</h2>
         </div>
     </body>
 
